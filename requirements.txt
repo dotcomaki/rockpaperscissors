@@ -1,2 +1,2 @@
-Python 3
-Pip (Python's Package Manager)
+python-3.9.0.exe /quiet InstallAllUsers=1 PrependPath=1 Include_test=0
+get-pip.py
